@@ -1,2 +1,1 @@
-# Randomwebsite
-Random website for fun
+Random websites for picture sharing for animals
